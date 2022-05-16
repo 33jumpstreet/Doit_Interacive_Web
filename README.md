@@ -1,9 +1,8 @@
+![22](https://user-images.githubusercontent.com/104782358/168521517-40713864-a590-4776-870b-8e12d805f0e4.jpg)
+
 # Doit_Interacive_Web<br>
 <br>
 책 Doit_Interacive_Web을 보고 실습한 내용입니다. <br>
-<br>
-![22](https://user-images.githubusercontent.com/104782358/168521364-ca360eff-2bf2-426c-af61-ddbf8418a8dd.jpg)
-<br>
 <br>
 목차 <br>
 -----------------<br>
