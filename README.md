@@ -1,9 +1,10 @@
-# Doit_Interacive_Web
-책Doit_Interacive_Web을 보고 실습한 내용입니다. 
-
-![22](https://user-images.githubusercontent.com/104782358/168520125-561d10b7-db4f-42ea-921e-025553419e89.jpg)
-
-
+# Doit_Interacive_Web<br>
+<br>
+책 Doit_Interacive_Web을 보고 실습한 내용입니다. <br>
+<br>
+![22](https://user-images.githubusercontent.com/104782358/168521004-454579fa-72c3-4a1f-a3a1-90f945378c87.jpg)
+<br>
+<br>
 목차 <br>
 -----------------<br>
 [필수 문법]<br>
@@ -11,12 +12,12 @@ HTML, CSS, 자바스크립트<br>
 한 번에 끝내기<br>
 -----------------<br>
 01장 웹 페이지 제작 준비하기<br>
-__01-1 웹 페이지를 만들기 전에<br>
-____인터랙티브 UI/UX<br>
-____UI/UX 작업 방식의 변화와 코딩의 중요성<br>
-____비전공자와 디자이너도 코딩을 할 수 있는 이유<br>
-____HTML, CSS, 자바스크립트의 역할<br>
-__01-2 웹 브라우저와 웹 에디터<br>
+01-1 웹 페이지를 만들기 전에<br>_
+인터랙티브 UI/UX<br>
+UI/UX 작업 방식의 변화와 코딩의 중요성<br>
+비전공자와 디자이너도 코딩을 할 수 있는 이유<br>
+HTML, CSS, 자바스크립트의 역할<br>
+01-2 웹 브라우저와 웹 에디터<br>
 ____웹 브라우저 설치하기<br>
 ____웹 에디터 설치하기<br>
 ____비주얼 스튜디오 코드 설치하기<br>
